@@ -1,5 +1,5 @@
 # AluTalk
-A web-based chatroom for people who **THINK FREELY!!!**
+A web-based chatroom for discussions about highly controversial topics...
 
 ## Architecture
 The project consists of three components:
